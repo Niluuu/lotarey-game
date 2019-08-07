@@ -2,6 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+![image_2019-08-07_19-33-20](https://user-images.githubusercontent.com/35704809/62631617-7305f700-b94a-11e9-856a-236c1fdbba22.png)
+
+This is a lotarey-game. you should choose 8 numbers from 1 box , 1 from second.
+
 In the project directory, you can run:
 
 ### `npm start`
